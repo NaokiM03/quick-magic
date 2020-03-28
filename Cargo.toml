@@ -8,3 +8,4 @@ edition = "2018"
 
 [dependencies]
 clipboard-win = "3.0.1"
+rust-embed = "5.5.0"
