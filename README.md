@@ -1,1 +1,1 @@
-# snippet
+# Quick Magic
